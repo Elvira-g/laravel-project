@@ -1,0 +1,11 @@
+.category-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.category {
+    margin: 30px;
+    width: 40%;
+    min-height: 50px;
+}
